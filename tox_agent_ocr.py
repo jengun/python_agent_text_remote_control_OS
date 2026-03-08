@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-qTox Agent v2.2 - Полная версия с обратной связью
+qTox Agent v0.1 - Полная версия с обратной связью
 """
 
 import pyautogui
